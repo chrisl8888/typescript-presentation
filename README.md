@@ -1,1 +1,3 @@
-# typescript-presentation
+# Type Script - Beginners Course
+
+Learn typescript 
